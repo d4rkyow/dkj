@@ -1,0 +1,56 @@
+name: dkj
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+
+
+
+  assets:
+    - assets/carousel1.png
+    - assets/carousel2.png
+    - assets/carousel3.png
+    - assets/carousel4.png
+    - assets/carousel5.png
+    - assets/carousel6.png
+    - assets/logoDKJ2.png
+    - assets/jakarta_pusat_1.jpg
+    - assets/jakarta_pusat_2.jpg
+    - assets/jakarta_pusat_3.jpg
+    - assets/jakarta_utara_1.jpg
+    - assets/jakarta_utara_2.jpg
+    - assets/jakarta_utara_3.jpg
+    - assets/jakarta_barat_1.jpg
+    - assets/jakarta_barat_2.jpg
+    - assets/jakarta_barat_3.jpg
+    - assets/jakarta_selatan_1.jpg
+    - assets/jakarta_selatan_2.jpg
+    - assets/jakarta_selatan_3.jpg
+    - assets/jakarta_timur_1.jpg
+    - assets/jakarta_timur_2.jpg
+    - assets/jakarta_timur_3.jpg
+    - assets/kepulauan_seribu_1.jpg
+    - assets/kepulauan_seribu_2.jpg
+    - assets/kepulauan_seribu_3.jpg
+    
+  fonts:
+    - family: PlusJakarta
+      fonts:
+        - asset: fonts/PlusJakartaSans-Regular.ttf
+
